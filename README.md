@@ -4,4 +4,4 @@ Repository Praktisi Mengajar 4. Kolaborasi dengan jurusan Informatikan UPN Veter
 ## Daftar peserta
 
 1. Ainan. [Akun GitHub project](https://github.com/ainandoo/praktisi-mengajar-4/tree/main)
-2. NIM_NAMA LINK_GITHUB
+2. 22081010158_Heaven Ade Aldrico [Akun Github](https://github.com/ldriko) | [Tugas 1](https://github.com/ldriko/portfolio-cartoon) | [Tugas 2](https://github.com/ldriko/portofolio) ([Hosted](https://portofolio.fly.dev))
