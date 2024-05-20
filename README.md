@@ -3,4 +3,4 @@ Repository Praktisi Mengajar 4. Kolaborasi dengan jurusan Informatikan UPN Veter
 
 ## Daftar peserta
 
-1. Ainan. [Akun GitHub](github.com/ainandoo)
+1. Ainan. [Akun GitHub project](https://github.com/ainandoo/praktisi-mengajar-4/tree/main)
